@@ -13,13 +13,13 @@
 
   "author": "kriszu",
   "license": "MIT",
-  "homepage": "https://github.com/sxzz/unplugin-starter#readme",
+  "homepage": "https://github.com/wangsizhu0504/unplugin-start-template#readme",
   "bugs": {
-    "url": "https://github.com/sxzz/unplugin-starter/issues"
+    "url": "https://github.com/wangsizhu0504/unplugin-start-template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sxzz/unplugin-starter.git"
+    "url": "git+https://github.com/wangsizhu0504/unplugin-start-template.git"
   },
   "files": [
     "dist"
